@@ -1,0 +1,18 @@
+import React from 'react';
+
+import {useSelector, useDispatch} from 'react-redux';
+import {getHouse} from '../'
+
+const HouseDetail = (props) =>{
+  const dispatch = useDispatch()
+
+  return(
+    <div>
+    </div>
+  )
+
+  
+
+}
+
+export default HouseDetail;
