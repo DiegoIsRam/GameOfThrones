@@ -37,6 +37,7 @@ export class HouseCard extends Component {
 
 //*Solo estamos agregando algunos comentarios de nuestro c´dogi
 //:Esto no tienen nada que ver con lo de modificar el código solo es un cambio pequeño así que no debemos preocuaparnos
+//!Un Nuevo comentario de la Rama con mis iniciales y el desaroolo del nuevo Banner
 
 //*export const mapDispatchToProps = undefined;
 
