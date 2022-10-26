@@ -26,7 +26,7 @@ export class HouseCard extends Component {
 
 //*Solo estamos agregando algunos comentarios de nuestro c´dogi
 //:Esto no tienen nada que ver con lo de modificar el código solo es un cambio pequeño así que no debemos preocuaparnos
-
+//!New comment for remote
 //*export const mapDispatchToProps = undefined;
 
 export const mapDispatchToProps = {deleteHouse}
