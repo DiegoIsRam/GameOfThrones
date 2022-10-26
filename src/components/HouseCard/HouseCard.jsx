@@ -13,6 +13,17 @@ export class HouseCard extends Component {
             <div>
             <button onClick={()=>this.props.deleteHouse(this.props.id)}>X</button>
                <Link to = {`/houses/${this.props.id}`}>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
                 <h3>{this.props.nameSSSSSSSSS}</h3>
                </Link>
 
